@@ -1,0 +1,7 @@
+c:\users\mozart\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\bin\ServiceWebProject.dll
+c:\users\mozart\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\bin\ServiceWebProject.pdb
+c:\users\mozart\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\obj\Debug\ServiceWebProject.dll
+c:\users\mozart\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\obj\Debug\ServiceWebProject.pdb
+C:\Users\MOZART\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\bin\Newtonsoft.Json.dll
+C:\Users\MOZART\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\bin\Newtonsoft.Json.xml
+C:\Users\MOZART\documents\visual studio 2010\Projects\ServiceWebProject\ServiceWebProject\obj\Debug\ServiceWebProject.csprojResolveAssemblyReference.cache
